@@ -1,14 +1,14 @@
 # python-review
 
-1. Getting Started 
-2. Variables, Datatypes and Functions
-3. Errors
-4. Conditionals
-5. Loops and User Input
-6. File Handling
-7. More Functionalities
-8. Data Analysis
-9. Numpy
+01. Getting Started 
+02. Variables, Datatypes and Functions
+03. Errors
+04. Conditionals
+05. Loops and User Input
+06. File Handling
+07. More Functionalities
+08. Data Analysis
+09. Numpy
 10. GUIs
 11. SQLite and PostgreSQL
 12. OOP
